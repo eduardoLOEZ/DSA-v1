@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\TwoSum_2\TwoSum_2\bin\Debug\net6.0\TwoSum_2.exe
+C:\Users\hp\source\repos\TwoSum_2\TwoSum_2\bin\Debug\net6.0\TwoSum_2.deps.json
+C:\Users\hp\source\repos\TwoSum_2\TwoSum_2\bin\Debug\net6.0\TwoSum_2.runtimeconfig.json
+C:\Users\hp\source\repos\TwoSum_2\TwoSum_2\bin\Debug\net6.0\TwoSum_2.dll
+C:\Users\hp\source\repos\TwoSum_2\TwoSum_2\bin\Debug\net6.0\TwoSum_2.pdb
+C:\Users\hp\source\repos\TwoSum_2\TwoSum_2\obj\Debug\net6.0\TwoSum_2.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\TwoSum_2\TwoSum_2\obj\Debug\net6.0\TwoSum_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\TwoSum_2\TwoSum_2\obj\Debug\net6.0\TwoSum_2.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\TwoSum_2\TwoSum_2\obj\Debug\net6.0\TwoSum_2.AssemblyInfo.cs
+C:\Users\hp\source\repos\TwoSum_2\TwoSum_2\obj\Debug\net6.0\TwoSum_2.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\TwoSum_2\TwoSum_2\obj\Debug\net6.0\TwoSum_2.dll
+C:\Users\hp\source\repos\TwoSum_2\TwoSum_2\obj\Debug\net6.0\refint\TwoSum_2.dll
+C:\Users\hp\source\repos\TwoSum_2\TwoSum_2\obj\Debug\net6.0\TwoSum_2.pdb
+C:\Users\hp\source\repos\TwoSum_2\TwoSum_2\obj\Debug\net6.0\TwoSum_2.genruntimeconfig.cache
+C:\Users\hp\source\repos\TwoSum_2\TwoSum_2\obj\Debug\net6.0\ref\TwoSum_2.dll

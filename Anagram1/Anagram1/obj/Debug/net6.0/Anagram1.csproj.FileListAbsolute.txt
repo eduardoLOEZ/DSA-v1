@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\Anagram1\Anagram1\bin\Debug\net6.0\Anagram1.exe
+C:\Users\hp\source\repos\Anagram1\Anagram1\bin\Debug\net6.0\Anagram1.deps.json
+C:\Users\hp\source\repos\Anagram1\Anagram1\bin\Debug\net6.0\Anagram1.runtimeconfig.json
+C:\Users\hp\source\repos\Anagram1\Anagram1\bin\Debug\net6.0\Anagram1.dll
+C:\Users\hp\source\repos\Anagram1\Anagram1\bin\Debug\net6.0\Anagram1.pdb
+C:\Users\hp\source\repos\Anagram1\Anagram1\obj\Debug\net6.0\Anagram1.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Anagram1\Anagram1\obj\Debug\net6.0\Anagram1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Anagram1\Anagram1\obj\Debug\net6.0\Anagram1.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Anagram1\Anagram1\obj\Debug\net6.0\Anagram1.AssemblyInfo.cs
+C:\Users\hp\source\repos\Anagram1\Anagram1\obj\Debug\net6.0\Anagram1.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Anagram1\Anagram1\obj\Debug\net6.0\Anagram1.dll
+C:\Users\hp\source\repos\Anagram1\Anagram1\obj\Debug\net6.0\refint\Anagram1.dll
+C:\Users\hp\source\repos\Anagram1\Anagram1\obj\Debug\net6.0\Anagram1.pdb
+C:\Users\hp\source\repos\Anagram1\Anagram1\obj\Debug\net6.0\Anagram1.genruntimeconfig.cache
+C:\Users\hp\source\repos\Anagram1\Anagram1\obj\Debug\net6.0\ref\Anagram1.dll
