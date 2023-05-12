@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\FuncionesC#\GroupAnagrams\GroupAnagrams\bin\Debug\net6.0\GroupAnagrams.exe
+C:\Users\hp\Desktop\FuncionesC#\GroupAnagrams\GroupAnagrams\bin\Debug\net6.0\GroupAnagrams.deps.json
+C:\Users\hp\Desktop\FuncionesC#\GroupAnagrams\GroupAnagrams\bin\Debug\net6.0\GroupAnagrams.runtimeconfig.json
+C:\Users\hp\Desktop\FuncionesC#\GroupAnagrams\GroupAnagrams\bin\Debug\net6.0\GroupAnagrams.dll
+C:\Users\hp\Desktop\FuncionesC#\GroupAnagrams\GroupAnagrams\bin\Debug\net6.0\GroupAnagrams.pdb
+C:\Users\hp\Desktop\FuncionesC#\GroupAnagrams\GroupAnagrams\obj\Debug\net6.0\GroupAnagrams.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\FuncionesC#\GroupAnagrams\GroupAnagrams\obj\Debug\net6.0\GroupAnagrams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\FuncionesC#\GroupAnagrams\GroupAnagrams\obj\Debug\net6.0\GroupAnagrams.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\FuncionesC#\GroupAnagrams\GroupAnagrams\obj\Debug\net6.0\GroupAnagrams.AssemblyInfo.cs
+C:\Users\hp\Desktop\FuncionesC#\GroupAnagrams\GroupAnagrams\obj\Debug\net6.0\GroupAnagrams.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\FuncionesC#\GroupAnagrams\GroupAnagrams\obj\Debug\net6.0\GroupAnagrams.dll
+C:\Users\hp\Desktop\FuncionesC#\GroupAnagrams\GroupAnagrams\obj\Debug\net6.0\refint\GroupAnagrams.dll
+C:\Users\hp\Desktop\FuncionesC#\GroupAnagrams\GroupAnagrams\obj\Debug\net6.0\GroupAnagrams.pdb
+C:\Users\hp\Desktop\FuncionesC#\GroupAnagrams\GroupAnagrams\obj\Debug\net6.0\GroupAnagrams.genruntimeconfig.cache
+C:\Users\hp\Desktop\FuncionesC#\GroupAnagrams\GroupAnagrams\obj\Debug\net6.0\ref\GroupAnagrams.dll
